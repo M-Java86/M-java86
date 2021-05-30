@@ -27,3 +27,20 @@ https://capsule-render.vercel.app/api?
 
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+
+
+Type data makes to change Background Image.
+
+wave : default
+egg
+shark
+slice
+rect
+soft
+rounded
+cylinder
+waving
+Write &type= on the URL
+
+![header](https://capsule-render.vercel.app/api?type=slice)
+
