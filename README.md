@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I am Michelle Owens 
 
-- 👩🏾‍💻 I have just successfully completed the FULL STACK immersive program at DigitalCrafts in Atlanta,GA area. 
+- 👩🏾‍💻 I have just successfully completed the FULL STACK immersive program at DigitalCrafts in the Atlanta,GA area. 
 - 😊 I’m currently attending Infosys Bootcamp virtually with QA Academy. 
 - 👩🏾‍🎓 I'm currently working on a IMS(Inventory Management System) were I design and create users input to do CRUD actions. 
 - 🏢 I’m looking for a company where I can experience on the job training to expand my Full Stack Software developer skills.
