@@ -47,7 +47,7 @@
 
 
 
-<script src="https://gist.github.com/yoojinhee03/3140de39bbcd644505483245dd9bca7f.js"></script>
+
 
 <!--
 **M-Java86/M-java86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
