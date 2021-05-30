@@ -99,6 +99,53 @@ It makes confused API
 
 It is recommended to use %20 (blank) only
 
+Text Background
+Background of Text.
+
+Write &textBg=true to active.
+
+If you want to increase background-size, add %20 between text values. This is because background-size depends on the length of the english-text. (%20 means spacing)
+
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true)
+
+Text Animation
+Make the text dynamic.
+
+Write &animation= , if you want to use.
+
+fadeIn : fadeIn 1.2s
+scaleIn : scaleIn .8s
+blink : blink .6s
+blinking : blinking 1.6s
+twinkling : twinkling 4s
+
+![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
+
+
+FontColor
+Change text color. Default value is 000000 Value should be Hex code with erased '#'
+
+Write &fontColor= behind Text query
+
+![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontColor=d6ace6)
+
+
+FontSize
+Change text font size. Default value is 70.
+
+Write &fontSize= behind Text query
+
+![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontSize=40)
+
+FontAlign
+Change text horizontal-align (x). write number between 0~100
+
+&fontAlign= : Default value is 50. center of image
+
+![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontAlign=70)
+
+
+
 
 
 
