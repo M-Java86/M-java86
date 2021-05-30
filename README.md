@@ -44,3 +44,32 @@ Write &type= on the URL
 
 ![header](https://capsule-render.vercel.app/api?type=slice)
 
+
+
+Change Background Image!
+
+&color=auto : Proven random color. List are here
+&color=timeAuto : Proven random color, but is decided by time.
+&color=random : Really random color. I don't know what colors are showing.
+&color=gradient : Proven random gradient. List are here
+&color=timeGradient : Proven random gradient, but is decided by time.
+&color=_hexcode : default(#B897FF)
+
+If you use auto mode. no need to change fontColor. auto also change fontColor auto.
+
+![header](https://capsule-render.vercel.app/api?color=auto)
+
+
+If you use static color. Do not write '#'
+
+When use timeAuto and timeGradient?
+
+Used section header and footer at the same time.
+
+
+
+
+
+
+
+
