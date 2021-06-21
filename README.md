@@ -1,30 +1,40 @@
 
+php
+<?php
 
-# Hi there, Michelle here<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+namespace AshBaker;
 
-## Get to know me:
-javascript
+class About extends Me
+{
+    public function getCurrentWorkplace(): array
+    {
+        return [
+            'workplace' => [
+                'company' => 'Qquicker',
+                'position' => 'Founder'         
+            ]
+        ];
+    }
 
-const whoAmI = {
-    user : Michelle Owens ,
-    occupation : Full Stack Developer,
-    hobbies : [
-                 'Travelling',
-                 'Watching Movies',
-                 'Running',
-                 'Collecting Sneakers'
-                 'Staying up all night chasing that ONE bug...'
-               ],
-    getCity : () => Atlanta, Georgia,
-    ambitions : () => {
-        San Jaun, Puerto Rico(); // Completed - 2020
-        IsTravelingToBali(); // Pending - post 'rona
-        CreateMyOwnOpenSourceProject(); 
-       }
+    public function getDailyKnowledge(): array
+    {
+        return [
+            Php::class,
+            Javascript::class,
+            Laravel::class,
+            Vuejs::class,
+            Angular::class,
+            ReactNative::class,
+            TailwindCss::class,
+            Aws::class,
+        ];
+    }
+
+    public function getFutureGoal(): string
+    {
+        return 'To contribute to open source.';
+    }
 }
-
-
-
 
 
 
