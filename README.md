@@ -1,21 +1,13 @@
 
-php
-<?php
 
-namespace AshBaker;
-
-class About extends Me
-{
-    public function getCurrentWorkplace(): array
-    {
-        return [
+  return [
             'workplace' => [
                 'company' => 'Qquicker',
+                'position' => 'Product Owner'         
                 'position' => 'Founder'         
             ]
         ];
     }
-
     public function getDailyKnowledge(): array
     {
         return [
@@ -29,7 +21,6 @@ class About extends Me
             Aws::class,
         ];
     }
-
     public function getFutureGoal(): string
     {
         return 'To contribute to open source.';
