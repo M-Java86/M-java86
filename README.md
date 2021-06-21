@@ -1,6 +1,8 @@
 
 ### Hi there 👋, I am Michelle Owens 
 
+[Vinesh Ghela GitHub stats](https://github-readme-stats.vercel.app/api?username=vineshghela&show_icons=true&theme=radical)
+ 
 public class WhoAmI{ 
     
     private String name;
@@ -32,21 +34,19 @@ public class WhoAmI{
     } 
   
     public static void main(String[] args) { 
-        whoAmI Michelle = new WhoAmI(
-            "Michelle Owens",
+        whoAmI vinesh = new WhoAmI(
+            "Vinesh Ghela",
             "Full Stack web developer",
-            ["Reading", "Trying new food","Running" ,"Sneaker Collector"], 
-            "Atlanta, Georgia"); 
+            ["Reading", "Trying new food","Gym" ,"Chasing Semi-colons"], 
+            "London, United Kingdom"); 
         
-        System.out.println(michelle); 
+        System.out.println(vinesh); 
     } 
 } 
 
 
 
 
-
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
 
 ---
 ### Langauges and Tools: 
