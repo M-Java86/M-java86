@@ -1,19 +1,52 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=%20Hi%20there%20&fontSize=80&textBg=true&animation=fadeIn)
 
 ### Hi there 👋, I am Michelle Owens 
 
-- 👩🏾‍💻 I have just successfully completed the FULL STACK immersive program at DigitalCrafts in the Atlanta,GA area. 
-- 😊 I’m currently attending Infosys Bootcamp virtually with QA Academy. 
-- 👩🏾‍🎓 I'm currently working on a IMS(Inventory Management System) were I design and create users input to do CRUD actions. 
-- 🏢 I’m looking for a company where I can experience on the job training to expand my Full Stack Software developer skills.
+public class WhoAmI{ 
+    
+    private String name;
+    private String job; 
+    private String[] hobbies;
+    private String location;
+  
+    public WhoAmI(String name, String job, String[] hobbies, String location){ 
+        this.name = name; 
+        this.job = job; 
+        this.hobbies = hobbies; 
+        this.location = location;
+    } 
+  
+    public String getName() {
+      return name; 
+    } 
+    public String getJob() {
+        return job; 
+    }
+    public String[] getHobbies() { 
+        return hobbies; 
+    } 
+    
+    @Override
+    public String toString() { 
+        return("Hi my name is "+ this.getName()+ ", from" + this.getLocation() + 
+        "! My Job is "+ this.getJob()+" and my hobbies are " + this.getHobbies();
+    } 
+  
+    public static void main(String[] args) { 
+        whoAmI Michelle = new WhoAmI(
+            "Michelle Owens",
+            "Full Stack web developer",
+            ["Reading", "Trying new food","Running" ,"Sneaker Collector"], 
+            "Atlanta, Georgia"); 
+        
+        System.out.println(michelle); 
+    } 
+} 
 
 
-**This Dynamic Image's from -> [Capsule-Render](https://github.com/kyechan99/capsule-render) - Press F5!**
 
-<!--
+
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
--->
 
 ---
 ### Langauges and Tools: 
