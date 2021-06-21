@@ -1,48 +1,30 @@
 
-### Hi there 👋, I am Michelle Owens 
 
-[Vinesh Ghela GitHub stats](https://github-readme-stats.vercel.app/api?username=vineshghela&show_icons=true&theme=radical)
- 
-public class WhoAmI{ 
-    
-    private String name;
-    private String job; 
-    private String[] hobbies;
-    private String location;
-  
-    public WhoAmI(String name, String job, String[] hobbies, String location){ 
-        this.name = name; 
-        this.job = job; 
-        this.hobbies = hobbies; 
-        this.location = location;
-    } 
-  
-    public String getName() {
-      return name; 
-    } 
-    public String getJob() {
-        return job; 
-    }
-    public String[] getHobbies() { 
-        return hobbies; 
-    } 
-    
-    @Override
-    public String toString() { 
-        return("Hi my name is "+ this.getName()+ ", from" + this.getLocation() + 
-        "! My Job is "+ this.getJob()+" and my hobbies are " + this.getHobbies();
-    } 
-  
-    public static void main(String[] args) { 
-        whoAmI vinesh = new WhoAmI(
-            "Vinesh Ghela",
-            "Full Stack web developer",
-            ["Reading", "Trying new food","Gym" ,"Chasing Semi-colons"], 
-            "London, United Kingdom"); 
-        
-        System.out.println(vinesh); 
-    } 
-} 
+# Hi there, Michelle here<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+## Get to know me:
+javascript
+
+const whoAmI = {
+    user : Michelle Owens ,
+    occupation : Full Stack Developer,
+    hobbies : [
+                 'Travelling',
+                 'Watching Movies',
+                 'Running',
+                 'Collecting Sneakers'
+                 'Staying up all night chasing that ONE bug...'
+               ],
+    getCity : () => Atlanta, Georgia,
+    ambitions : () => {
+        San Jaun, Puerto Rico(); // Completed - 2020
+        IsTravelingToBali(); // Pending - post 'rona
+        CreateMyOwnOpenSourceProject(); 
+       }
+}
+
+
+
 
 
 
