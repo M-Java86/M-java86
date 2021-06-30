@@ -4,7 +4,7 @@
 # Hey there! :wave::smiley:
 
 <!--Introduction -->
-I'm Michelle Owens!  
+  I'm Michelle Owens!  
  -🔭 Completed full stack web development with Infosys BootCamp at QA Academy.
 - 🌱 I’m currently brushing up my skills and learning Java.  
 - 👯 I’m looking for a company where I can put my skills to use.
