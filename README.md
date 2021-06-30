@@ -14,8 +14,13 @@ I'm Michelle Owens!
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
-<!-- Your badges -->
-<a href="https://www.linkedin.com/in/MichelleOwens/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
+### Lets Connect!
+<p align="left">
+<a href="https://www.linkedin.com/in/M-Java86/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
+<a href="mailto:mpythondata@outlook.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
+</p>
+
+
 <hr/>
 <a href="https://github.com/M-Java86/M-Java86">
 
