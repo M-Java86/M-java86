@@ -78,7 +78,7 @@ Since the World is in the quarantine stage: earth_america:🌍, and I’m having
 
 * Spend 5-6 hours a week doing Code-Alongs 
 * Read:newspaper: Dev and UI articles daily 
-* Workout:weight_lifting_man: 3 days in a row and take a day break 
+* Workout:🏃🏾‍♀️: 3 days in a row and take a day break 
 * Compeleting unfinished projects:
 * Adapting the minimalism life style
 * 🔜
