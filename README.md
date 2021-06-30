@@ -10,6 +10,23 @@ I'm Michelle Owens!
 - 👯 I’m looking for a company where I can put my skills to use.
 - ⚡ I am working on a couple personal projects.  
 
+```javascript
+const michelle = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS,Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "SheCodes",
+                        speaker: "American",
+                        mentor: "WomenWhoCode"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
+
+
+
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
