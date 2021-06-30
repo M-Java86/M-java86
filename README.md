@@ -10,8 +10,9 @@ I'm Michelle Owens!
 - 👯 I’m looking for a company where I can put my skills to use.
 - ⚡ I am working on a couple personal projects.  
 
+
 ```javascript
-const michelle = {
+const Michelle = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS,Python, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components],
