@@ -18,7 +18,7 @@ I'm Michelle Owens!
 [![Linkedin](https://img.shields.io/badge/-M-Java86-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michelle-owens-b57945199)
 
 <!-- Profile View Count and GitStats -->
-![](https://komarev.com/ghpvc/?username=MichelleOwens&style=flat)
+![](https://komarev.com/ghpvc/?username=M-Java86&style=flat)
 [![Github](https://img.shields.io/badge/-M-Java86-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/M-Java86)
 
 <!-- gif Image -->
@@ -42,9 +42,9 @@ Since the World is in the quarantine stage: earth_america:🌍, and I’m having
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
-  <a href="https://gitstats.me/JoykishanSharma">
+  <a href="https://gitstats.me/M-Java86">
     <img width="460" height="auto" align="right" alt="M-Java's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=joykishansharma&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
+         src="https://github-readme-stats.vercel.app/api?username=M-Java86&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
    <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma&layout=compact" />
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
