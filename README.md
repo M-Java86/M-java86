@@ -4,8 +4,7 @@
 # Hey there! :wave::smiley:
 
 <!--Introduction -->
-I'm Michelle Owens! 
- 
+I'm Michelle Owens!  
  -🔭 Completed full stack web development with Infosys BootCamp at QA Academy.
 - 🌱 I’m currently brushing up my skills and learning Java.  
 - 👯 I’m looking for a company where I can put my skills to use.
@@ -14,14 +13,17 @@ I'm Michelle Owens!
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
+<hr/>
+<a href="https://github.com/M-Java86/M-Java86">
+
+
 ### Lets Connect!
 <p align="left">
 <a href="https://www.linkedin.com/in/M-Java86/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
 <a href="mailto:mpythondata@outlook.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
 </p>
 
-<hr/>
-<a href="https://github.com/M-Java86/M-Java86">
+
 
 <!-- gif Image -->
 <img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
