@@ -15,7 +15,10 @@ I'm Michelle Owens!
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
 <!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-M-Java86-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michelle-owens-b57945199)
+<a href="https://www.linkedin.com/in/MichelleOwens/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
+<hr/>
+<a href="https://github.com/M-Java86/M-Java86">
+
 
 <!-- Profile View Count and GitStats -->
 ![](https://komarev.com/ghpvc/?username=M-Java86&style=flat)
