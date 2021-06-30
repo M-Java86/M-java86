@@ -11,21 +11,49 @@ I'm Michelle Owens!
 - ⚡ I am working on a couple personal projects.  
 
 
-```javascript
-const Michelle = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "SheCodes",
-                        speaker: "American",
-                        mentor: "WomenWhoCode"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
-```
 
+```java 
+public class WhoAmI{ 
+    
+    private String name;
+    private String job; 
+    private String[] hobbies;
+    private String location;
+  
+    public WhoAmI(String name, String job, String[] hobbies, String location){ 
+        this.name = name; 
+        this.job = job; 
+        this.hobbies = hobbies; 
+        this.location = location;
+    } 
+  
+    public String getName() {
+      return name; 
+    } 
+    public String getJob() {
+        return job; 
+    }
+    public String[] getHobbies() { 
+        return hobbies; 
+    } 
+    
+    @Override
+    public String toString() { 
+        return("Hi my name is "+ this.getName()+ ", from" + this.getLocation() + 
+        "! My Job is "+ this.getJob()+" and my hobbies are " + this.getHobbies();
+    } 
+  
+    public static void main(String[] args) { 
+        whoAmI vinesh = new WhoAmI(
+            "Michelle Owens",
+            "Full Stack web developer",
+            ["Reading", "Trying new food","Running" ,"Chasing Semi-colons"], 
+            "Atlanta,Georgia"); 
+        
+        System.out.println(michelle); 
+    } 
+} 
+```
 
 
 <br>
