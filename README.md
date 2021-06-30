@@ -20,10 +20,8 @@ I'm Michelle Owens!
 <a href="mailto:mpythondata@outlook.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
 </p>
 
-
 <hr/>
 <a href="https://github.com/M-Java86/M-Java86">
-[![Github](https://img.shields.io/badge/-M-Java86-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/M-Java86)
 
 <!-- gif Image -->
 <img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
