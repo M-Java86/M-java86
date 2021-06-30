@@ -18,11 +18,11 @@ I'm Michelle Owens!
 [![Linkedin](https://img.shields.io/badge/-MichelleOwens-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michelle-owens-b57945199)
 
 <!-- Profile View Count and GitStats -->
-![](https://komarev.com/ghpvc/?username=joykishansharma&style=flat)
-[![Github](https://img.shields.io/badge/-JoykishanSharma-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/JoykishanSharma)
+![](https://komarev.com/ghpvc/?username=M-Java86&style=flat)
+[![Github](https://img.shields.io/badge/-M-Java86-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/M-Java86)
 
 <!-- gif Image -->
-<img src="https://github.com/M-Java86/M-Java86/blob/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
+<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
 
 <!-- current status -->
 ### 💼  Things that I'm currently working on: 
@@ -31,7 +31,7 @@ I'm Michelle Owens!
 * 🔜
 
 ### 🌱 Challenges that I’m currently challenging myself:
-Since the World is in the quarantine stage:earth_asia:, and I’m having lots of spare time:watch:, I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
+Since the World is in the quarantine stage:earth_americas:🌍:, and I’m having lots of spare time:watch:, I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
 
 * Learn to code:👩🏾‍💻 Spend 5-6 hours on Code-Alongs  
 * Read:newspaper: Dev and UI articles daily 
@@ -42,9 +42,9 @@ Since the World is in the quarantine stage:earth_asia:, and I’m having lots of
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
-  <a href="https://gitstats.me/JoykishanSharma">
-    <img width="460" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=joykishansharma&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
+  <a href="https://gitstats.me/M-Java86">
+    <img width="460" height="auto" align="right" alt="M-java's github stats" 
+         src="https://github-readme-stats.vercel.app/api?username=Michelleowens&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
    <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma&layout=compact" />
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
