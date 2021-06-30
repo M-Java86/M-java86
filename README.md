@@ -15,14 +15,8 @@ I'm Michelle Owens!
 
 
 ### Lets Connect!
-<p align="left">
-<a href="https://www.linkedin.com/in/M-Java86/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
-<a href="mailto:mpythondata@outlook.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
-</p>
-<hr/>
-<a href= "http://www.github.com/M-Java86">
-
-
+[![Linkedin: michelleowens](https://img.shields.io/badge/-michelleowens-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michelle-owens-b57945199/)
+[![GitHub M-Java86](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/M-Java86)
 
 <!-- gif Image -->
 <img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
