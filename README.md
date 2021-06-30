@@ -23,10 +23,6 @@ I'm Michelle Owens!
 
 <hr/>
 <a href="https://github.com/M-Java86/M-Java86">
-
-
-<!-- Profile View Count and GitStats -->
-![](https://komarev.com/ghpvc/?username=M-Java86&style=flat)
 [![Github](https://img.shields.io/badge/-M-Java86-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/M-Java86)
 
 <!-- gif Image -->
