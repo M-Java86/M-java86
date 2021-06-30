@@ -14,7 +14,7 @@ I'm Michelle Owens!
 ```javascript
 const Michelle = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS,Python, Java],
+  code: [Javascript, Typescript, HTML, CSS, Python, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
