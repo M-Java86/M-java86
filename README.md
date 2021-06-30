@@ -15,7 +15,7 @@ I'm Michelle Owens!
 
 
 ### Lets Connect!
-[![Linkedin: michelleowens(https://img.shields.io/badge/-michelleowens-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michelle-owens-b57945199/)
+![Linkedin: michelleowens](https://img.shields.io/badge/-michelleowens-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michelle-owens-b57945199/)
 [![GitHub M-Java86](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/M-Java86)
 
 <!-- gif Image -->
