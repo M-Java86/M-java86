@@ -69,7 +69,7 @@ public class WhoAmI{
 
 <!-- current status -->
 ### 💼  Things that I'm currently working on: 
-* Code-Along: Build a great Mac app in SwiftUI
+* Code-Along: Twilio and Node.js-sending bulk messages to clients
 * Some Personal Projects 😍
 * 🔜
 
